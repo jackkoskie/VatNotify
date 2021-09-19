@@ -1,11 +1,12 @@
 {
   "name": "czqm-notify",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Discord bot that sends a message when certain controllers come online.",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon ./src/index.ts"
+    "dev": "nodemon ./src/index.ts",
+    "compile": "npm i; tsc"
   },
   "keywords": [],
   "author": "",
