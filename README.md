@@ -2,7 +2,7 @@
 A Discord bot that sends a message when certain controllers come online.
 
 ## Setup
-1. Download the latest release from releases
+1. Download the latest release from [releases](https://github.com/GoldenXLence/VatNotify/releases)
 1. Rename `.env-example` to `.env`
 1. Follow the instructions [here](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token#creating-a-bot) to get your bots token though **DO NOT** add the bot to your server yet
 1. Add your token to the `.env` file and fill in the other variables
