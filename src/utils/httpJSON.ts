@@ -1,0 +1,3 @@
+const httpJSON = () => { };
+
+export { httpJSON };
