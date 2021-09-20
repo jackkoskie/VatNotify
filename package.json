@@ -7,8 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon ./src/index.ts"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "vatsim",
+    "discord-js",
+    "sapphire-framework"
+  ],
+  "author": "GoldenXLence",
   "license": "AGPL-3.0-or-later",
   "dependencies": {
     "@sapphire/framework": "^2.0.0-next.71c18830.0",
