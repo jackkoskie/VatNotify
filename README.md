@@ -1,4 +1,6 @@
 <div align="center">
+
+> VatNotify is not currently in a working state and **DOES NOT WORK**. I will update this once it does work
   
 # VatNotify
 A Discord bot that sends a message when certain VATSIM controllers come online.
