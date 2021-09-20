@@ -3,7 +3,7 @@
 # VatNotify
 A Discord bot that sends a message when certain VATSIM controllers come online.
   
-![David](https://img.shields.io/david/GoldenXLence/VatNotify) ![GitHub all releases](https://img.shields.io/github/downloads/goldenxlence/vatnotify/total) ![GitHub](https://img.shields.io/github/license/goldenxlence/vatnotify) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/GoldenXLence/VatNotify?label=version) ![node-current](https://img.shields.io/node/v/discord.js) ![GitHub last commit](https://img.shields.io/github/last-commit/goldenxlence/vatnotify)
+![David](https://img.shields.io/david/GoldenXLence/VatNotify) ![GitHub](https://img.shields.io/github/license/goldenxlence/vatnotify) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/GoldenXLence/VatNotify?label=version) ![node-current](https://img.shields.io/node/v/discord.js) ![GitHub last commit](https://img.shields.io/github/last-commit/goldenxlence/vatnotify)
   
 [//]: # "Node badge above uses discord.js's node requirement as this is not a published node package and d.js is very heavily required."
   
