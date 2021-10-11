@@ -15,7 +15,7 @@
   "author": "GoldenXLence",
   "license": "AGPL-3.0-or-later",
   "dependencies": {
-    "@sapphire/framework": "^2.0.0-next.71c18830.0",
+    "@sapphire/framework": "^2.0.0-pr-293.83ddd9e9.0",
     "discord.js": "^13.1.0",
     "dotenv": "^10.0.0",
     "node-cron": "^3.0.0"
